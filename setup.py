@@ -64,6 +64,7 @@ setup(
     name="Electron Cash",
     version=version.PACKAGE_VERSION,
     install_requires=requirements + ['pyqt5'],
+    dependency_links=['git+https://github.com/sfoxhq/python-ecdsa.git#egg=sfox-ecdsa-0.13'],
     extras_require={
         'hardware': requirements_hw,
     },
