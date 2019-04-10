@@ -1,6 +1,6 @@
 pyaes>=0.1a1
 sfox-ecdsa==0.13
-requests
+requests>=2.20.0
 qrcode
 protobuf
 dnspython
