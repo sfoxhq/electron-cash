@@ -11,7 +11,7 @@ libusb1==1.6.4
 mnemonic==0.18
 protobuf==3.5.2.post1
 pyblake2==1.1.2
-requests==2.18.4
+requests>=2.20.0
 six==1.11.0
 trezor==0.11.1
-urllib3==1.22
+urllib3>=1.23
