@@ -2,7 +2,7 @@ pyaes>=0.1a1
 sfox-ecdsa==0.13
 requests>=2.20.0
 qrcode==6.1
-protobuf==3.9.1
+protobuf==3.18.3
 dnspython==1.16.0
 jsonrpclib-pelix==0.4.0
 PySocks>=1.6.6
